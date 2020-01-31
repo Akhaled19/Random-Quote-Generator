@@ -1,4 +1,4 @@
-# Unit-1---Random-Quote-Generator
+# Random Quote Generator
 Azal Khaled's Random Quote Generator Project 1 as a TeamTreeHouse Full Stack JavaScript Talent Path student.
 
 ## App Description:
