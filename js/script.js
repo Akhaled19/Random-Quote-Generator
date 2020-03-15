@@ -99,7 +99,7 @@ function printQuote () {
     HTML += '<span class="year">' + message.year + '</span><br>'; //when citation property exist in quote object add it to the template string
   }
   if (message.tag) {
-    HTML += '<span class="tag">' + message.tag + '</span><br>';//when tag property exist in quote object add it to the template string
+    HTML += '<span class="tag">' + message.tag + '</span><br>'; //when tag property exist in quote object add it to the template string
   }
 
   HTML += '</p>'; //closing p tags 
